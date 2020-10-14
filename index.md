@@ -1,12 +1,7 @@
 
-{% include carousel.html height="60" unit="%" duration="5" %}
   
 ## Who we are
-
-The Ramganga water quality project is a two year research collaboration betwen statisticians, modellers, earth and water scientists funded by the GCRF-EPSRC under UKRI.  It includes academics from three universities, environmental agencies, research institutes and international partners.  
-
+We are a multi-displinary and multi-institution research team working towards COVID-19 research. To prevent further waves of the COVID-19 pandemic, it is vital to identify and isolate individuals who are asymptomatic or present with a few symptoms and carry the SARS-CoV-2 virus. Our group is working towards developing prediction models that combine several variables from routine tests can be used to identify patterns in individuals who are infected but show no or few symptoms. This type of model can support medical decision making when allocating limited healthcare resources. Link to [Cornahack](https://medium.com/@pauldowling/accelerating-scientific-collaboration-in-real-time-e1f682f54c87)
 
 ## Objectives
- - Study will deploy recently available high-resolution earth observation data for a quick assessment of water quality  - Drone based mapping of water quality using hyperspectral imaging
- - Date integration and modelling for creating a framework for a decision support system
-
+Individuals with suspect COVID-19 infection can present a broad range of symptoms and signs. This presents a challenge in deciding whom to test especially when laboratory testing resources are limited. Prediction models can support healthcare worker’s decision-making in testing. In this research, we will validate our previously published model to create and train new models for larger data sets in the UK using NHS data. This research will include an extensive range of data from haematology, clinical chemistry, microbiology and virology and effectively produce a visual and comprehensive clinical picture for COVID-19 patients. This will help to improve a healthcare provider’s capacity in the diagnostic process and in the management of resources. Crucially, this research will develop an app that can be used by healthcare providers immediately that will better equip health organisations with adaptive and predictive screening tools from early onset which will control future peaks of the pandemic. Our method would allow rapid screening and prediction a week before the window for full diagnosis and enable early quarantine of predicted cases. 
