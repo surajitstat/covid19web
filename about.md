@@ -1,45 +1,35 @@
 
 
 
-Ramganga is a collaboration between two leading UK universities, one leading Indian University and two UK research institutes. The consortium includes researchers with expertise in statistics, environmental modeling and  remote sensing. (to be edited)
+We are a multi-displinary and multi-institution research team working towards COVID-19 research. To prevent further waves of the COVID-19 pandemic, it is vital to identify and isolate individuals who are asymptomatic or present with a few symptoms and carry the SARS-CoV-2 virus. Our group is working towards developing  prediction models that combine several variables from routine tests can be used to identify patterns in individuals who are infected but show no or few symptoms. This type of model can support medical decision making when allocating limited healthcare resources. 
+
 
 ## Team
+###	University of Brighton
+* [Louise Mackenzie](https://research.brighton.ac.uk/en/persons/louise-mackenzie)
+* [Simonne Weeks](https://research.brighton.ac.uk/en/persons/simonne-weeks) 
+
 ### University of Glasgow
-* [Ray, S. (PI) ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
-* [Scott, Professor M](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/escott/)
-* [Miller, Dr CA](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/claireferguson/) 
+* [Surajit Ray ](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/)
 
-###	 James Hutton Institute
-* [Helliwell, Dr RC](https://www.hutton.ac.uk/staff/rachel-helliwell)
-* [Glendell, Dr M](https://www.hutton.ac.uk/staff/miriam-glendell) 
+### University of Oxford
+* [Abhirup Banerjee](http://users.ox.ac.uk/~card0439/)
 
-### Indian Institute of Technology, Kharagpur
-* [Sinha, Professor R](http://home.iitk.ac.in/~rsinha/)
+### University of Lincoln
+* [Dr Bart Vorselaars](https://staff.lincoln.ac.uk/bvorselaars)
 
-### Center for Ecology and Hydrology
-* [Read, Dr D S](https://www.ceh.ac.uk/staff/daniel-read)
-* [Bowes, Dr M](https://www.ceh.ac.uk/staff/mike-bowes) 
-
-### University of Stirling
-* [Tyler, Professor AN](https://www.stir.ac.uk/people/257330)
-* [Hunter, Dr P D](https://www.stir.ac.uk/people/255710) 	
+### University of Sheffield
+* [Andy Swift](https://www.sheffield.ac.uk/medicine/people/iicd/andrew-swift)
+* [Michail Mamalakise](https://www.linkedin.com/in/michail-mamalakis-583787a9/?originalSubdomain=gr)
 
 
-## Funder 
-
-[Link to project on EPSRC-GOW](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/T003669/1)  
 
 
 ## Partner institutions
 
 ---
-![alt-text-1](assets/images/uog.png){:height="50px"}  ![alt-text-2](assets/images/uos.png){:height="50px"}  ![alt-text-2](assets/images/ceh.png){:height="50px"} ![alt-text-2](assets/images/jhi.png){:height="50px"} ![alt-text-2](assets/images/iitk.png){:height="50px"} 
+![alt-text-1](assets/images/uob.png){:height="50px"}  ![alt-text-2](assets/images/uog.png){:height="50px"}  ![alt-text-2](assets/images/uoo.png){:height="50px"} ![alt-text-2](assets/images/uol.png){:height="50px"} ![alt-text-2](assets/images/uos.png){:height="50px"} 
 
 ---
 
-## Supporting partners
----
-![alt-text-1](assets/images/iukwc.png){:height="50px"}  ![alt-text-2](assets/images/nmcge.jpg){:height="50px"}   ![alt-text-3](assets/images/aqua-watch-logo.png){:height="50px"}  ![alt-text-4](assets/images/mahseer.png){:height="50px"}
-
----
 
