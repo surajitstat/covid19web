@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
-title:  Ramganga
-description:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
-tagline:  Developing statistical downscaling to improve water quality understanding and management in the Ramganga sub-basin
-logo: "assets/logo/logo3.png"
+title:  Covid-19 research group
+description:  Use of Machine Learning and Artificial Intelligence to predict SARS-CoV-2 infection from Full Blood Counts in a population
+tagline:  Use of Machine Learning and Artificial Intelligence to predict SARS-CoV-2 infection from Full Blood Counts in a population
+logo: "assets/logo/blood.jpeg"
 defaults:
   # _docs
   - scope:
