@@ -6,7 +6,7 @@
  - Team gets access to Sheffield Imaging data **details**
  - Teams work highlighted in [Medical Express](https://medicalxpress.com/news/2020-10-artificial-intelligence-early-covid-standard.html). 
  
- ## Sept, 2020
+## Sept, 2020
   - Team gets access to Sheffield Blood data **details**
   - Temam member Michail Mamalakis gets mention in [Insegneo](https://insigneo.org/2020/05/insigneo-phd-student-michail-mamalakis-takes-part-in-eu-covid-19-hackathon/)
   - ?? Louise internal Grant
