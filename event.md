@@ -6,11 +6,11 @@
  - 
  
  ## August, 2020
- - Team member Dr. Surajit Ray was awarded a £3000 grant titled "Finger Prick test for early prediction of SARS-CoV-2; a screening method using changes in full blood count parameters." under the Engineering and Physical Sciences Research Council (EPSRC)	 Knowledge Transfer Partnerships Impact accelaration account
+ - Team member [Dr. Surajit Ray](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/) was awarded a £3000 grant titled "Finger Prick test for early prediction of SARS-CoV-2; a screening method using changes in full blood count parameters." under the [Engineering and Physical Sciences Research Council (EPSRC)	 Knowledge Transfer Partnerships Impact accelaration account](https://www.gla.ac.uk/myglasgow/ris/knowledgeexchange/knowledgeexchangefunding/impactaccelerationaccounts/)
 
 
 ## June, 2020
- - Team submits and and publishes influencial paper on Covid Blood data titled [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296324/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296324/)
+ - Team submits and and publishes influencial paper on Covid Blood data titled [Use of Machine Learning and Artificial Intelligence to predict SARS-CoV-2 infection from Full Blood Counts in a population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7296324/)
 
 ## May, 2020
  - Team particpates in EUvsVirus
