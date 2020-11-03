@@ -11,7 +11,7 @@
   - Temam member Michail Mamalakis gets mention in [Insegneo](https://insigneo.org/2020/05/insigneo-phd-student-michail-mamalakis-takes-part-in-eu-covid-19-hackathon/)
   - ?? Louise internal Grant
  
- ## August, 2020
+## August, 2020
  - Team member [Dr. Surajit Ray](https://www.gla.ac.uk/schools/mathematicsstatistics/staff/surajitray/) was awarded a £3000 grant titled "Finger Prick test for early prediction of SARS-CoV-2; a screening method using changes in full blood count parameters." under the [Engineering and Physical Sciences Research Council (EPSRC)	 Knowledge Transfer Partnerships Impact accelaration account](https://www.gla.ac.uk/myglasgow/ris/knowledgeexchange/knowledgeexchangefunding/impactaccelerationaccounts/)
 
 
@@ -21,7 +21,6 @@
 
  
 ## April, 2020
- - Team particpates in [EUvsVirus](https://www.euvsvirus.org/)   ** More details **
- 
+ - Team particpates in [EUvsVirus](https://www.euvsvirus.org/)   **More details** 
  - Our partnership between academics from the four UK universities with complementary expertise was formed during the lockdown period which started from participating in a hackathon ( [Coronahack](https://www.coronahack.co.uk/) ). Our team, Modelling and Prediction Pandemics (MaPP),  won [first prize](https://medium.com/@pauldowling/accelerating-scientific-collaboration-in-real-time-e1f682f54c87) at the week-long international Coronahack and we won a nvdia GPU and a cash prize over £1200 which has been used to build a state of the art computer housed in U of Lincoln.
 
