@@ -20,7 +20,7 @@ We are a multi-displinary and multi-institution research team working towards CO
 
 ### University of Sheffield
 * [Andy Swift](https://www.sheffield.ac.uk/medicine/people/iicd/andrew-swift)
-* [Michail Mamalakise](https://www.linkedin.com/in/michail-mamalakis-583787a9/?originalSubdomain=gr)
+* [Michail Mamalakis](https://www.linkedin.com/in/michail-mamalakis-583787a9/?originalSubdomain=gr)
 
 
 
