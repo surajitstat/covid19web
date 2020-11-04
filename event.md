@@ -8,7 +8,7 @@
  
 ## Sept, 2020
   - Team gets access to Sheffield Blood data **details**
-  - Temam member Michail Mamalakis gets mention in [Insegneo](https://insigneo.org/2020/05/insigneo-phd-student-michail-mamalakis-takes-part-in-eu-covid-19-hackathon/)
+  - Temam member Michail Mamalakis gets mention in [Insigneo](https://insigneo.org/2020/05/insigneo-phd-student-michail-mamalakis-takes-part-in-eu-covid-19-hackathon/)
   - ?? Louise internal Grant
  
 ## August, 2020
