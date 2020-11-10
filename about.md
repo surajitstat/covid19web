@@ -4,7 +4,7 @@
 We are a multi-displinary and multi-institution research team working towards COVID-19 research. To prevent further waves of the COVID-19 pandemic, it is vital to identify and isolate individuals who are asymptomatic or present with a few symptoms and carry the SARS-CoV-2 virus. Our group is working towards developing  prediction models that combine several variables from routine tests can be used to identify patterns in individuals who are infected but show no or few symptoms. This type of model can support medical decision making when allocating limited healthcare resources. 
 
 
-## Team
+## Fellowship of the Pandemic
 ###	University of Brighton
 * [Louise Mackenzie](https://research.brighton.ac.uk/en/persons/louise-mackenzie)
 * [Simonne Weeks](https://research.brighton.ac.uk/en/persons/simonne-weeks) 
