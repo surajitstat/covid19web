@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title:  Covid-19 research group
-description:  Use of Machine Learning and Artificial Intelligence to predict SARS-CoV-2 infection from Full Blood Counts in a population
+title:  Clinical Predictive Modelling Research Group 
+description:  Using  Machine Learning and Artificial Intelligence to solve SARS-CoV-2 Pandemic
 tagline:  Use of Machine Learning and Artificial Intelligence to predict SARS-CoV-2 infection from Full Blood Counts in a population
 logo: "assets/logo/blood.jpeg"
 defaults:
